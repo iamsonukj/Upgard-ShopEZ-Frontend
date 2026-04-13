@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>Products</title>
+
+<link rel="stylesheet"
+href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css">
+
+<link rel="stylesheet" href="../css/styles.css">
+</head>
+
+<body>
+
+<!-- Navbar -->
+<nav class="navbar navbar-dark bg-dark">
+<div class="container">
+<a class="navbar-brand" href="index.html">ShopEZ</a>
+
+<div>
+<a href="products.html" class="btn btn-outline-light me-2">Products</a>
+<a href="cart.html" class="btn btn-warning">
+Cart (<span id="cartCount">0</span>)
+</a>
+</div>
+</div>
+</nav>
+
+<div class="container mt-4">
+
+<h2 class="text-center mb-4">Products</h2>
+
+<!-- Filters -->
+<div class="text-center mb-4">
+
+<button class="btn btn-dark filterBtn active" data-cat="All">All</button>
+<button class="btn btn-outline-dark filterBtn" data-cat="Electronics">Electronics</button>
+<button class="btn btn-outline-dark filterBtn" data-cat="Fashion">Fashion</button>
+<button class="btn btn-outline-dark filterBtn" data-cat="Home">Home</button>
+<button class="btn btn-outline-dark filterBtn" data-cat="Accessories">Accessories</button>
+<button class="btn btn-outline-dark filterBtn" data-cat="Sports">Sports</button>
+
+</div>
+
+<!-- Product List -->
+<div class="row g-4" id="productList"></div>
+
+</div>
+
+<!-- Scripts -->
+<script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+<script src="../js/products.js"></script>
+<script src="../js/common.js"></script>
+
+</body>
+</html>

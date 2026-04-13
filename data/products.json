@@ -1,0 +1,109 @@
+[
+{
+"id":1,
+"name":"Laptop",
+"description":"High-performance laptop equipped with 16GB RAM and fast SSD storage, designed for smooth multitasking, programming, and entertainment. Its sleek design and reliable battery make it ideal for both work and personal use.",
+"price":76000,
+"image":"../images/laptop.jfif",
+"category":"Electronics"
+},
+
+{
+"id":2,
+"name":"Smartphone",
+"description":"Advanced 5G smartphone featuring a powerful processor, high-resolution camera, and long-lasting battery. Perfect for photography, gaming, and everyday use with a smooth and responsive experience.",
+"price":44000,
+"image":"../images/mobile.jfif",
+"category":"Electronics"
+},
+
+{
+"id":3,
+"name":"Headphones",
+"description":"Wireless headphones with active noise cancellation and high-quality audio output. Designed for comfort and clarity, making them perfect for music, calls, and long listening sessions.",
+"price":3000,
+"image":"../images/headphones.jfif",
+"category":"Electronics"
+},
+
+{
+"id":4,
+"name":"Men's T-Shirt",
+"description":"Soft and breathable cotton t-shirt designed for everyday comfort. Its modern fit and durable fabric make it suitable for casual wear and regular use.",
+"price":799,
+"image":"../images/tshirt.jfif",
+"category":"Fashion"
+},
+
+{
+"id":5,
+"name":"Women's Dress",
+"description":"Elegant and stylish dress crafted for special occasions and parties. Offers a comfortable fit with a modern design that enhances your overall look.",
+"price":2499,
+"image":"../images/dress.jfif",
+"category":"Fashion"
+},
+
+{
+"id":6,
+"name":"Running Shoes",
+"description":"Lightweight running shoes designed for comfort and performance. Provides excellent grip, cushioning, and support, ideal for sports, workouts, and daily activities.",
+"price":2999,
+"image":"../images/shoes.jfif",
+"category":"Fashion"
+},
+
+{
+"id":7,
+"name":"Coffee Maker",
+"description":"Easy-to-use automatic coffee maker that prepares fresh and rich coffee within minutes. Ideal for home and office use with efficient performance and modern design.",
+"price":4999,
+"image":"../images/coffeemaker.jfif",
+"category":"Home"
+},
+
+{
+"id":8,
+"name":"Table Lamp",
+"description":"Modern LED table lamp with adjustable brightness levels. Perfect for studying, reading, or enhancing room décor with its stylish and compact design.",
+"price":1200,
+"image":"../images/lamp.jfif",
+"category":"Home"
+},
+
+{
+"id":9,
+"name":"Backpack",
+"description":"Durable and spacious backpack with multiple compartments for organized storage. Suitable for travel, college, and office use with a comfortable carrying design.",
+"price":1499,
+"image":"../images/bag.jfif",
+"category":"Accessories"
+},
+
+{
+"id":10,
+"name":"Sunglasses",
+"description":"Trendy sunglasses with UV protection to safeguard your eyes from harmful rays. Lightweight design ensures comfort while enhancing your style.",
+"price":999,
+"image":"../images/sunglasses.jfif",
+"category":"Accessories"
+},
+
+{
+"id":11,
+"name":"Football",
+"description":"High-quality football made with durable material for outdoor play. Designed for better grip and control, ideal for practice sessions and matches.",
+"price":899,
+"image":"../images/football.jfif",
+"category":"Sports"
+},
+
+{
+"id":12,
+"name":"Yoga Mat",
+"description":"Anti-slip yoga mat providing excellent cushioning and stability. Perfect for yoga, exercise, and fitness routines, ensuring comfort during workouts.",
+"price":699,
+"image":"../images/yogamat.jfif",
+"category":"Sports"
+}
+]
