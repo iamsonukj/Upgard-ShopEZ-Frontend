@@ -18,7 +18,7 @@ This project is built entirely using frontend technologies and stores data using
 ---
 
 
-<img src="images/home.png" width="900"/>
+
 
 
 
@@ -112,22 +112,6 @@ ShopEZ-Frontend
 ---
 
 
-### 🛍️ Products Page
-<img src="images/products.png" width="900"/>
----
-
-
-### 📄 Product Details Page
-<img src="images/details.png" width="900"/>
----
-
-### 🛒 Cart Page
-<img src="images/cart.png" width="900"/>
-
----
-
-### 💳 Checkout Page
-<img src="images/checkout.png" width="900"/>
 
 ---
 
