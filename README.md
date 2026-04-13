@@ -104,17 +104,6 @@ ShopEZ-Frontend
 
 ---
 
-
-## 📸 Screenshots
-
-### 🏠 Home Page
-<img src="images/home.png" width="900"/>
----
-
-
-
----
-
 ## 🧪 Testing
 
 * Product listing loads correctly
